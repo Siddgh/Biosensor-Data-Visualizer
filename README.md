@@ -4,6 +4,7 @@ This project is to demonstrate a Biosentor Data Visualizer using Python and Stre
 ## Steps to Run
 1. Install dependencies from requirements.txt
 2. go to the project directory and run `streamlit run app.py`
+3. App should start on localhost
 
 ![Heart Rate](snapshots/heart_sc.png)
 ![Sleep](snapshots/sleep_sc.png)
